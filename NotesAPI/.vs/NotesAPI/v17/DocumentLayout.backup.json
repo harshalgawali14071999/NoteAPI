@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|c:\\users\\admin\\onedrive\\desktop\\harshal\\notesapi\\notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|c:\\users\\admin\\onedrive\\desktop\\harshal\\notesapi\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|c:\\users\\admin\\onedrive\\desktop\\harshal\\notesapi\\notesapi\\data\\notescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\data\\notescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|c:\\users\\admin\\onedrive\\desktop\\harshal\\notesapi\\notesapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|c:\\users\\admin\\onedrive\\desktop\\harshal\\notesapi\\notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3982EA51-33A5-4D16-8680-CAE25FBFAB58}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeToolTip": "NotesAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:25:25.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesAPI\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:23:15.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Data\\NotesContext.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Data\\NotesContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Data\\NotesContext.cs",
+              "RelativeToolTip": "NotesAPI\\Data\\NotesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:17:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\Models\\Note.cs",
+              "RelativeToolTip": "NotesAPI\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:17:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesAPI",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
+              "RelativeDocumentMoniker": "NotesAPI\\NotesAPI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Harshal\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
+              "RelativeToolTip": "NotesAPI\\NotesAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T17:16:08.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
